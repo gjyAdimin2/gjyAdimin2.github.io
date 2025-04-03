@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/shichaofaan/shichaofaan.github.io/main/img/readme-home.png)
 >
-### [查看博客点击这里 👆](https://shichaofaan.github.io)
+### [查看博客点击这里 👆](https://gjyyy.cloud)
 
 ## 长长的路，慢慢的走，这是一个不紧不慢的时代......
 
