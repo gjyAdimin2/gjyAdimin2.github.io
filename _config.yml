@@ -1,10 +1,10 @@
 # Site settings
 title: 佳运 Blog
-SEOTitle: 陌生人 | CF Blog
+SEOTitle: 陌生人 | GJY Blog
 header-img: img/post-bg-desk.jpg
-email: shicf0311@gmail.com
-description: "Every failure is leading towards success."
-keyword: "CF.S Blog, Steve Chan, 超凡, Data Engineer, AI"
+email: gjyzhangh@163.com
+description: "Keep going!"
+keyword: "Blog, Java , AI , Distributed"
 url: "https://gjyAdimin2.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/gjyAdimin2/gjyAdimin2.github.io.git" # you code repository
@@ -17,13 +17,13 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
-# weibo_username:     shichaofaan
-zhihu_username:     新城已无旧少年
-github_username:    shichaofaan
-csdn_username:  qq_59002046
-# jianshu_username:   e71990ada2fd
-# twitter_username:   shichaofaan
+# RSS: false
+# weibo_username:     陌生人
+# zhihu_username:     陌生人
+github_username:    gjyAdmin2
+# csdn_username:  
+# jianshu_username:   
+# twitter_username:   
 
 
 
