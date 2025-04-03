@@ -2,7 +2,9 @@
 layout: page
 description: "做你想做的！"
 ---
-
+<head>
+    <link rel="icon" type="image/x-icon" href="img/icon-gjy.jpg"/>
+</head>
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
