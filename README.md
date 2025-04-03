@@ -1,4 +1,4 @@
-![](https://github.com/gjyAdimin2/gjyAdimin2.github.io/tree/main/img/readme.png)
+![](https://github.com/gjyAdimin2/gjyAdimin2.github.io/main/img/readme.png)
 >
 ### [查看博客点击这里 👆](https://gjyyy.cloud)
 
