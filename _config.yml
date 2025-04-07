@@ -99,9 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
-    },{
         title: "qiandao",
         href: "https://www.shichaofan.com/"
     }
