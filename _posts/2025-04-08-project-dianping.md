@@ -1,5 +1,9 @@
 # 餐厅评价系统项目及面试问题总结
 
+[项目地址]: https://github.com/gjyyyy/dianping	"餐厅评价系统"
+
+
+
 ## 登录问题
 
 ### 怎么通过  Redis+JWT+ThreadLocal+拦截器  实现单点登录
